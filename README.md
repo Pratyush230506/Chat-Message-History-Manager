@@ -53,6 +53,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 
 🖼️ Screenshots
+https://github.com/Pratyush230506/Chat-Message-History-Manager/blob/85d33025e8c5f869cf9f3ffd67f03ab960772a44/Gallery_20250904_150517.pdf
 
 
 
